@@ -28,12 +28,14 @@ header {
     padding: 15px;
     margin: 10px;
     text-align: center;
+    width: 200px; /* Set card width */
 }
 
 .product-card img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
+    margin-bottom: 10px; /* Add some spacing between image and text */
 }
 
 button {
